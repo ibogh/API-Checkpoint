@@ -1,0 +1,13 @@
+.list {
+  padding-bottom: 30px;
+  width: 500px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+.liste {
+  padding-left: 290px;
+}
+.App {
+  background-color: #3d3c3a;
+  text-align: center;
+}
